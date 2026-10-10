@@ -139,4 +139,4 @@ If you want to add support for other platforms or improve error handling, you're
 
 ## Author
 
-Milan Bhandari — [GitHub](https://github.com/milancodess)
+Milan Bhandari — [GitHub](https://github.com/novaxmd)
